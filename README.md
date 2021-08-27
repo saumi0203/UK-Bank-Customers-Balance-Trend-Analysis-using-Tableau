@@ -1,1 +1,1 @@
-# UK-Bank-Customers-Balance-Trend-Analysis-using-Tableau
+Applying Tableau for a UK customer, created a story-line to identity the trends and important insights in the data for the purpose of marketing. Also suggested the client for marketing and after precise analysis from the dataset .
